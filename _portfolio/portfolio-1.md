@@ -1,7 +1,6 @@
 ---
-title: "Chengbi Paper 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Provincial Map of Food Security Problem in China, 2012](http://www.arcgis.com/apps/StorytellingTextLegend/index.html?appid=d92d265566554095bc26757445abbbc4)"
+excerpt: "This story map summarizes the food security problem in China in year 2012. I made this map in the hope of evoking people’s awareness of this serious issue. It is also a precaution which can alert those who unfortunately have unhindered access to poisonous food in China."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

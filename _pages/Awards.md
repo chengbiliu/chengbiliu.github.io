@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-2019	    Provost Summer Research Fellowship, George Mason University ($7,000)
+<pre>
+2019	        Provost Summer Research Fellowship, George Mason University ($7,000)
 
 2019		Graduate Student Travel Fund, George Mason University ($150)
 
@@ -19,6 +19,7 @@ author_profile: true
 
 2013-2014	Theodore A. Rottman Scholarship in Social Justice, Calvin College ($1,650)
 
-2013	    The Bosscher Family Interim Scholarship Calvin College ($500)
+2013	        The Bosscher Family Interim Scholarship Calvin College ($500)
 
 2010-2014	Dean’s Scholarship for Academic Excellence, Calvin College ($6,000/yr)
+</pre>

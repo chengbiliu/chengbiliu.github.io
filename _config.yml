@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Chengbi's Personal Website"
+title                    : "Chengbi's Personal Website"
 title_separator          : "-"
 name                     : &name "Chengbi Liu"
 description              : &description "PhD Candidate, Department of Geography and Geoinformation Science, George Mason University"
@@ -83,7 +83,7 @@ author:
   name             : "Chengbi Liu"
   avatar           : "profile.png"
   bio              : "PhD candidate, Department of Geography and Geoinformation Science, George Mason University. Researching how augmented reality visualizes places through social media."
-  location         : "Washington D.C., US"
+  location         : "Washington D.C., USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=6588aJ8AAAAJ&hl=en"
   email            :

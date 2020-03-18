@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Awards Earned"
+permalink: /awards/
+author_profile: true
+---
+
+{% include base_path %}
+
 2019	    Provost Summer Research Fellowship, George Mason University ($7,000)
 
 2019		Graduate Student Travel Fund, George Mason University ($150)

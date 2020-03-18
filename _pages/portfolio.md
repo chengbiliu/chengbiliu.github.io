@@ -12,7 +12,7 @@ Here are some small projects I've done in the past. I enjoy creating various kin
   {% include archive-single.html %}
 {% endfor %}
 
-**Analyzing Characteristics of User Generated Data in Yelp**
+## **Analyzing Characteristics of User Generated Data in Yelp**
 
 A video presentation of my analysis on [Yelp's open dataset](https://www.yelp.com/dataset). A variety of analyses are implemented in Python and ArcGIS including category analysis, network analysis, and spatial analysis.
 

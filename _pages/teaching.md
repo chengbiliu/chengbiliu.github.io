@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 As instructor:
 -	Social Media Analysis (online), George Mason University, 2020
 -	Introduction to Geoinformation Technologies (online), George Mason University, 2019-2020

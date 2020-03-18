@@ -21,7 +21,7 @@ author_profile: true
 
 2017   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Exploring the spatiotemporal pattern of cyberbullying with Yik Yak. Annual Meeting of Association of American Geographers. San Fransisco, CA.
 
-2014   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   An Investigation of the Relationship between Deer and Trails in North Ottawa Dunes. Michigan Academy of Science, Arts and Letters. Oakland, MI. [Poster](http://academicpages.github.io/files/duneposter.pdf).
+2014   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   An Investigation of the Relationship between Deer and Trails in North Ottawa Dunes. Michigan Academy of Science, Arts and Letters. Oakland, MI. [Poster](http://chengbiliu.github.io/files/duneposter.pdf).
 
-2013   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Creating a Web Application for Plaster Creek Watershed. West Michigan Regional Undergraduate Regional Science Research Conference. Grand Rapids, MI. [Poster](http://academicpages.github.io/files/plasterposter.pdf).
+2013   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Creating a Web Application for Plaster Creek Watershed. West Michigan Regional Undergraduate Regional Science Research Conference. Grand Rapids, MI. [Poster](http://chengbiliu.github.io/files/plasterposter.pdf).
 

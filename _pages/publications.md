@@ -22,6 +22,6 @@ Other Publications:
 -	**Liu, C.**, Helder, B., Kroon, J., Lampen, A., Narukawa, S., Quakenbush, B., Slachter, A. (2012). Kids Hope USA: Research and Evaluation Report. 
 
 In Preparation:
--	**Liu, C.**, Fuhrmann, S. Analyzing user-generated content and local visual information in augmented reality-based social media. Transactions in GIS (abstract accepted, expected to publish in June 2020).
+-	**Liu, C.**, Fuhrmann, S. Analyzing user-generated content and local visual information in augmented reality-based social media. Transactions in GIS (under minor revision, expected to publish in June 2020).
 -	**Liu, C.**, Fuhrmann, S. Can AR-based LBSN shape human perception of place? A user study of college students.
 

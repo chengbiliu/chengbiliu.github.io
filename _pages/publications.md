@@ -12,8 +12,9 @@ author_profile: true
 {% include base_path %}
 
 Peer-reviewed Journal Articles:
--	**Liu, C.**, Fuhrmann, S. (2018). [Enriching the GIScience research agenda: Fusing augmented reality and location based social networks](https://chengbiliu.github.io/files/ar.pdf). Transactions in GIS, 22, 775-788.
--	**Liu, C.**, Sui, D. (2017). [Exploring the spatiotemporal pattern of cyberbullying with Yik Yak](https://chengbiliu.github.io/files/yikyak.pdf). The Professional Geographer, 69(3), 412-423.
+-	**Liu, C.**, Fuhrmann, S. (2020). [Analyzing user-generated content and local visual information in augmented reality-based social media](https://chengbiliu.github.io/files/sent.pdf). *Transactions in GIS*, 24(3), 1-15.
+-	**Liu, C.**, Fuhrmann, S. (2018). [Enriching the GIScience research agenda: Fusing augmented reality and location based social networks](https://chengbiliu.github.io/files/ar.pdf). *Transactions in GIS*, 22(3), 775-788.
+-	**Liu, C.**, Sui, D. (2017). [Exploring the spatiotemporal pattern of cyberbullying with Yik Yak](https://chengbiliu.github.io/files/yikyak.pdf). *The Professional Geographer*, 69(3), 412-423.
 
 Other Publications:
 -	**Liu, C.**, Fuhrmann, S. (2019). [Mapping User Sentiment in AR-Based Social Media](http://cartogis.org/wp-content/uploads/2019/07/2019_US_National_Report.pdf). US National Report (US National Committee for the International Cartographic Association), accessed July 8, 2019.
@@ -22,6 +23,5 @@ Other Publications:
 -	**Liu, C.**, Helder, B., Kroon, J., Lampen, A., Narukawa, S., Quakenbush, B., Slachter, A. (2012). Kids Hope USA: Research and Evaluation Report. 
 
 In Preparation:
--	**Liu, C.**, Fuhrmann, S. [Analyzing user-generated content and local visual information in augmented reality-based social media](https://chengbiliu.github.io/files/MainTextrevision1.pdf). Transactions in GIS (accepted, expected to publish in June 2020).
 -	**Liu, C.**, Fuhrmann, S. Can AR-based LBSN shape human perception of place? A user study of college students.
 
